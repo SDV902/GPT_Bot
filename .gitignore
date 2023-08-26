@@ -1,6 +1,4 @@
 .idea
 node_modules
-config/default.json
-config/prod.json
 .vscode
 *.mp3
